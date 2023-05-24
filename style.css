@@ -134,7 +134,7 @@ a:hover {
 
   display: flex;
 
-  padding-top: clamp(150px, 250px, 500px);
+  padding-top: 150px;
 
   padding-left: 1rem;
 
